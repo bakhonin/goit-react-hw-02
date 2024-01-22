@@ -1,0 +1,30 @@
+.noFeedbackText {
+  font-size: 16px;
+}
+
+.feedbackStats {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.feedbackList {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+
+.feedbackItem {
+  font-size: 18px;
+}
+
+.feedbackText {
+  display: flex;
+  align-items: center;
+}
+
+svg {
+  margin-right: 5px;
+}
