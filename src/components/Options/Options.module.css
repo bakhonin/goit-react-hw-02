@@ -11,7 +11,6 @@
   font-size: 14px;
   font-weight: 700;
   padding: 3px;
-  border: none;
   width: 60px;
   transition-property: background-color;
   transition-duration: 250ms;
@@ -25,6 +24,7 @@
 .buttonGood:hover,
 .buttonGood:focus {
   background-color: green;
+  border: none;
   -webkit-box-shadow: -4px 4px 9px -2px rgba(66, 68, 90, 1);
   -moz-box-shadow: -4px 4px 9px -2px rgba(66, 68, 90, 1);
   box-shadow: -4px 4px 9px -2px rgba(66, 68, 90, 1);
@@ -37,6 +37,7 @@
 .buttonNeutral:hover,
 .buttonNeutral:focus {
   background-color: yellow;
+  border: none;
   -webkit-box-shadow: -4px 4px 9px -2px rgba(66, 68, 90, 1);
   -moz-box-shadow: -4px 4px 9px -2px rgba(66, 68, 90, 1);
   box-shadow: -4px 4px 9px -2px rgba(66, 68, 90, 1);
@@ -49,6 +50,7 @@
 .buttonBad:hover,
 .buttonBad:focus {
   background-color: red;
+  border: none;
   -webkit-box-shadow: -4px 4px 9px -2px rgba(66, 68, 90, 1);
   -moz-box-shadow: -4px 4px 9px -2px rgba(66, 68, 90, 1);
   box-shadow: -4px 4px 9px -2px rgba(66, 68, 90, 1);
@@ -61,6 +63,7 @@
 .buttonReset:hover,
 .buttonReset:focus {
   background-color: gray;
+  border: none;
   -webkit-box-shadow: -4px 4px 9px -2px rgba(66, 68, 90, 1);
   -moz-box-shadow: -4px 4px 9px -2px rgba(66, 68, 90, 1);
   box-shadow: -4px 4px 9px -2px rgba(66, 68, 90, 1);
